@@ -6,4 +6,4 @@ draft: flase
 
 ## New 123
 
-123
+{{% button href="/quiz" %}}Go to Quiz Here{{% /button %}}
